@@ -21,8 +21,8 @@ Here are some of the phased results of the experience.
 ![mechanical claw](../images/raw.png)
 
 **Biped robot**
-<video src="/assets/biped.mp4" controls></video>
-<iframe src="/assets/biped.mp4" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+<iframe src="/assets/biped.mp4" width="360" height="640" frameborder="0" allowfullscreen></iframe>
 
 2.Institute for AI Industry Research,Tsinghua University
 ------

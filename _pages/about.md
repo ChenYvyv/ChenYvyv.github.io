@@ -26,9 +26,11 @@ Institute for AI Industry Research,Tsinghua University
 ------
 1.Build a continual learning framework based on the trained nerf
 ![Taking rgb as new property](../images/render.png)
+
 2.Add new properties to the framework
 Taking normal as an example.
 ![Algorithm 1](../images/normal0.png)
+
 ![Algorithm 2](../images/normal.png)
 
 Adversarial graph contrast learning method based on asymmetric contrast loss

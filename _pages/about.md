@@ -17,7 +17,7 @@ Here are some of the phased results of the experience.
 Super Robot Research Institute
 ------
 **Flexible-rigid hybrid mechanical claw**
-！[Photo of finished mechanical claw](../images/raw.png)
+！[Photo of finished mechanical claw]([../images/raw.png](https://i-blog.csdnimg.cn/direct/510159c178b944fa8478df9ddf48d6f4.png#pic_center))
 
 Research Experience
 ======

@@ -17,13 +17,16 @@ Here are some of the phased results of the experience.
 Super Robot Research Institute
 ------
 **Flexible-rigid hybrid mechanical claw**
-![Photo of finished mechanical claw](https://github.com/ChenYvyv/ChenYvyv.github.io/blob/master/images/raw.png)
+
+![Photo of finished mechanical claw](../images/raw.png)
 
 **Biped robot**
-![video of biped robot](../assets/biped.mp4)
+
+<iframe src="/assets/biped.mp4" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 Institute for AI Industry Research,Tsinghua University
 ------
+
 1.Build a continual learning framework based on the trained nerf
 ![Taking rgb as new property](../images/render.png)
 
@@ -36,4 +39,5 @@ Taking normal as an example.
 
 Adversarial graph contrast learning method based on asymmetric contrast loss
 ------
+
 ![pipeline of our project](../images/graph.png)

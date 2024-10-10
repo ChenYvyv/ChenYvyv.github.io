@@ -14,17 +14,17 @@ Internships&Research Experience
 ======
 Here are some of the phased results of the experience.
 
-Super Robot Research Institute
+1.Super Robot Research Institute
 ------
 **Flexible-rigid hybrid mechanical claw**
 
-![Photo of finished mechanical claw](../images/raw.png)
+![mechanical claw](../images/raw.png)
 
 **Biped robot**
-
+<video src="/assets/biped.mp4" controls></video>
 <iframe src="/assets/biped.mp4" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-Institute for AI Industry Research,Tsinghua University
+2.Institute for AI Industry Research,Tsinghua University
 ------
 
 1.Build a continual learning framework based on the trained nerf
@@ -37,7 +37,7 @@ Taking normal as an example.
 
 ![Algorithm 2](../images/normal.png)
 
-Adversarial graph contrast learning method based on asymmetric contrast loss
+3.Adversarial graph contrast learning method based on asymmetric contrast loss
 ------
 
 ![pipeline of our project](../images/graph.png)

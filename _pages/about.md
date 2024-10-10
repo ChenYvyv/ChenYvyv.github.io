@@ -29,6 +29,7 @@ Institute for AI Industry Research,Tsinghua University
 
 2.Add new properties to the framework
 Taking normal as an example.
+
 ![Algorithm 1](../images/normal0.png)
 
 ![Algorithm 2](../images/normal.png)

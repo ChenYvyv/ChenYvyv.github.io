@@ -8,6 +8,8 @@ redirect_from:
 ---
 Hello! I am a senior undergraduate student from South China University of Technology, advised by Prof.[Chuhua Xian](https://chuhuaxian.github.io/index.html). And I am working as an internship at Institute for AI Industry Research of Tsinghua University, advised by post-doc [Zike Yan](https://zikeyan.github.io/).
 
+You can find my CV here: [Yujia Chen's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
 **`Sincerely looking for phD positions for fall 2025 admission!`**
 
 Internships&Research Experience

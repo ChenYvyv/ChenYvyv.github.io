@@ -44,3 +44,8 @@ Taking normal as an example.
 ------
 
 ![pipeline of our project](../images/graph.png)
+
+
+Martial Arts
+======
+<iframe src="/assets/kungfu.mp4" width="400" height="640" frameborder="0" allowfullscreen></iframe>

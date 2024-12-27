@@ -11,7 +11,7 @@ Additionally, I have been learning Chinese Kung Fu since the age of 6 and am a s
 
 You can find my CV here: [Yujia Chen's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-**`Sincerely looking for phD positions for fall 2025 admission!`**
+**`Sincerely looking for PhD positions for fall 2025 admission!`**
 
 Internships&Research Experience
 ======
